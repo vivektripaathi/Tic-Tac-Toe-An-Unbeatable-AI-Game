@@ -5,8 +5,6 @@
 
 ## Overview
 An unbeatable Human v/s Computer Tic Tac Toe Game in which computer cannot be beaten minimax algorithm.
-![Dice Roller Web APP](./website-preview.png)
-
 
 ## Demo
 You can try out the Dice Roller Game live at [tictactoeaigame.netlify.app](https://tictactoeaigame.netlify.app/).
